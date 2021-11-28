@@ -1,7 +1,7 @@
 {
   "name": "random_jokes",
-  "version": "1.0.0",
-  "description": "generates a random joke from a list of jokes",
+  "version": "1.0.1",
+  "description": "generates a random joke from a database of jokes",
   "main": "src/index.js",
   "types": "src",
   "scripts": {
@@ -12,8 +12,5 @@
   "devDependencies": {
     "typescript": "^4.5.2"
   },
-  "dependencies": {
-    "@types/node": "^16.11.10",
-    "chalk": "^5.0.0"
-  }
+  "keywords": ["typescript", "javascript", "random_jokes", "random", "devshash", "jokes", "getQuote", "removeQuote", "addQuote", "getRandomQuote"]
 }
